@@ -16,3 +16,8 @@ https://github.com/Arjiit/LeetCode-Patterns/blob/master/Trees/lcaBinaryTree.java
 
 
 **Thoughts:** Still need more practice in Trees questions but I guess writing down different scenarios and just returning right thing forms a skeleton of a tree solution.
+
+**Today's Progress**: Worked on subset problem from leetcode. It involves backtraking.
+
+
+**Thoughts:** Came from the office late, couldn't find much time, but going to get up early to complete 2 hours.
